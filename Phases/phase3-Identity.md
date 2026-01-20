@@ -5,4 +5,4 @@
 - Enforced standards using Azure Policy
 - Protected resources with deletion locks
 
-Skills: RBAC, Azure Policy, Governance
+Skills Demonstrated: RBAC, Azure Policy, Governance
