@@ -5,4 +5,4 @@
 - Implemented bidirectional VNet peering
 - Validated routing and connectivity
 
-Skills: Azure VNets, IP addressing, peering
+Skills Demonstrated: Azure VNets, IP addressing, peering
