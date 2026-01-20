@@ -5,4 +5,4 @@
 - Centralized diagnostics using Log Analytics
 - Validated diagnostic settings
 
-Skills: Storage, Key Vault, Monitoring
+Skills Demonstrated: Storage, Key Vault, Monitoring
